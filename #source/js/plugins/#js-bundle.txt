@@ -9,6 +9,8 @@
 //@prepros-append plugins/smoothScroll.js
 //@prepros-append plugins/tippy.js
 //@prepros-append plugins/datepicker-full.min.js
+//@prepros-append plugins/forms.js
+
 
 
 
